@@ -1,0 +1,2 @@
+class AnyDataController < ApplicationController
+end

@@ -1,0 +1,3 @@
+class AnyDatum < ApplicationRecord
+
+end
